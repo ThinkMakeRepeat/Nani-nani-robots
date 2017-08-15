@@ -1,0 +1,1 @@
+A Low Cost, education, robot platform to help kids learning about electronics, programming, and robotics.
